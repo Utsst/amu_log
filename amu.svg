@@ -4,6 +4,6 @@
   <rect class="shikaku" x="220" y="0" width="200" height="200"  fill="#D10026"/>
   <rect class="u" x="445" y="0" width="200" height="100"  fill="#159AD1"/>
   <circle class="u" cx="545" cy="100" r="100" fill="#159AD1"/>
-  <polygon points="220,0 420,0 320,200" style="fill:#D10026;stroke:red;stroke-width:1" />
+  <polygon points="220,0 420,0 320,200" style="fill:#D10026;stroke:black;stroke-width:2" />
   UX.ARMOO
 </svg>
