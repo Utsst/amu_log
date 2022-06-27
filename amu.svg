@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
   <polygon class="sankaku" points="100,0 0,200 200,200" fill="#F5E905"/>
-  <rect class="shikaku" x="220" y="0" width="200" height="200"  fill="#D10026"/>
   <rect class="u" x="445" y="0" width="200" height="100"  fill="#159AD1"/>
   <circle class="u" cx="545" cy="100" r="100" fill="#159AD1"/>
   <polygon class="shikaku" points="219,0 419,0 320,199" fill="#D10026"/>
