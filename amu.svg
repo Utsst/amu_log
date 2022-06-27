@@ -3,7 +3,7 @@
   <polygon class="sankaku" points="100,0 0,200 200,200" fill="#F5E905"/>
   <rect class="u" x="445" y="0" width="200" height="100"  fill="#159AD1"/>
   <circle class="u" cx="545" cy="100" r="100" fill="#159AD1"/>
-  <polygon class="shikaku" points="222,0 418,0 320,198" fill="#D10026"/>
+  <polygon class="shikaku" points="223,0 417,0 320,197" fill="#D10026"/>
   <polygon class="shikaku" points="220,0 220,200 320,200" fill="#D10026"/>
   <polygon class="shikaku" points="320,200 420,0 420,200" fill="#D10026"/>
   UX.ARMOO
